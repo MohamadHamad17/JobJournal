@@ -1,0 +1,30 @@
+<svg width="245" height="50" viewBox="-10 0 245 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Box with the big "J" -->
+  <rect x="-10" y="0" width="45" height="45" fill="#2CB1BC" rx="10" />
+  <text
+    x="15"
+    y="50%"
+    fill="white"
+    font-size="39"
+    font-family="'Montserrat', sans-serif"
+    font-weight="bold"
+    text-anchor="middle"
+    alignment-baseline="middle"
+  >
+    J
+  </text>
+
+  <text
+    x="43"
+    y="50%"
+    fill="#2CB1BC"
+    font-size="25"
+    font-family="'Poppins', sans-serif"
+    font-weight="bold"
+    text-anchor="start"
+    alignment-baseline="middle"
+    letter-spacing="2"
+  >
+    JobJournal
+  </text>
+</svg>
